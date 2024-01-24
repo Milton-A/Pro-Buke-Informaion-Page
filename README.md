@@ -4,6 +4,8 @@ Este projeto é uma plataforma destinada a facilitar o processo de estudo para e
 Através dessa plataforma, fornecemos uma variedade de recursos educacionais, incluindo livros de apoio, materiais compilados,
 enunciados e provas resolvidas das diversas disciplinas oferecidas nas faculdades.
 
+### Link: https://pro-buke-informaion-page.vercel.app/
+
 ## Tecnologias Utilizadas
 
 - [Next.js](https://nextjs.org/): Um framework React que oferece renderização do lado do servidor e outras funcionalidades.
